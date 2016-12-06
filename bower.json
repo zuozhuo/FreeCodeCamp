@@ -12,19 +12,19 @@
     "tests"
   ],
   "dependencies": {
-    "d3": "~3.5.5",
-    "jquery": "~2.1.4",
-    "cal-heatmap": "~3.5.2",
-    "bootstrap": "~3.3.4",
-    "font-awesome": "~4.5.0",
-    "moment": "~2.10.2",
-    "moment-timezone": "~0.5.0",
-    "jshint": "~2.9.0",
-    "lightbox2": "~2.8.1",
-    "rxjs": "~4.0.6",
     "CodeMirror": "~5.15.2",
+    "bootstrap": "~3.3.4",
+    "cal-heatmap": "~3.5.2",
     "chai": "~3.4.1",
     "clipboard": "~1.5.5",
-    "mousetrap": "~1.5.3"
+    "d3": "~3.5.5",
+    "font-awesome": "~4.5.0",
+    "jquery": "~2.1.4",
+    "jshint": "~2.9.0",
+    "lightbox2": "~2.8.1",
+    "moment": "~2.10.2",
+    "moment-timezone": "~0.5.0",
+    "mousetrap": "~1.5.3",
+    "rxjs": "~4.0.6"
   }
 }
